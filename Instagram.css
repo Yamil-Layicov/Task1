@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    background-color: #FAFAFA;
+}
+
+#container{
+    margin-left: 300px;
+    margin-top: 70px;
+}
+
+#section_1 img{
+    height: 100%;
+    background-color: #FAFAFA;
+}
+
+#section_1{
+    height: 500px;
+    width: 400px;
+    display: inline-block;
+    background-color: #FAFAFA;
+    float: left;
+}
+
+#section_2{
+    width: 400px;
+    float: left;
+    height: 500px;
+    background-color: #FAFAFA;
+}
+
+
+
+
+
